@@ -1,0 +1,1 @@
+var json_LogPond_16 = {"type":"FeatureCollection","name":"LogPond_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":"GUBUNABADINA LOG POND"},"geometry":{"type":"Point","coordinates":[146.946958099909409,-9.006992579263802]}}]}

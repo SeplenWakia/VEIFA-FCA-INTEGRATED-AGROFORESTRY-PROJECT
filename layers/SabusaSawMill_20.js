@@ -1,0 +1,1 @@
+var json_SabusaSawMill_20 = {"type":"FeatureCollection","name":"SabusaSawMill_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"SABUSA SAW MILL"},"geometry":{"type":"Point","coordinates":[147.222927564512617,-9.343778112638757]}}]}

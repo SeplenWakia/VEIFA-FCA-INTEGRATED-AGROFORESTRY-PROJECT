@@ -1,0 +1,1 @@
+var json_WAMA_TEMPORARY_BASECAMP_15 = {"type":"FeatureCollection","name":"WAMA_TEMPORARY_BASECAMP_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"WAMA TEMPORARY BASE CAMP"},"geometry":{"type":"Point","coordinates":[146.997736940155022,-8.978550552177172]}}]}
